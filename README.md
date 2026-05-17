@@ -1,4 +1,4 @@
-# Object-Oriented Programming UNIFESP
+# Object Oriented Programming UNIFESP
 
 Exercícios de Programação Orientada a Objetos da disciplina de POO da UNIFESP, implementados em C#.
 
