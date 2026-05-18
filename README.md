@@ -34,7 +34,7 @@ Exercícios de Programação Orientada a Objetos da disciplina de POO da UNIFESP
 | 6 | Instâncias de baralho italiano, inglês e inglês duplo usando `Baralho` |
 | 7 | Classe `Baralho_de_Truco` com vira e atualização de pesos das manilhas |
 
-### Lista 4: Análise de Código
+### Lista 3: Análise de Código
 
 | Exercício | Descrição |
 |-----------|-----------|
